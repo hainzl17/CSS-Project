@@ -1,0 +1,18 @@
+#container{
+  width: 1200px;
+  margin:auto;
+  background: gray;
+}
+#header{
+  background-color: red;
+  width: 1200px;
+  float: center;
+}
+#nav1{
+  width: 1200px;
+  text-align: center;
+  background: red;
+}
+#content{
+
+}
