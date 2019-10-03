@@ -1,21 +1,27 @@
 #container{
   width: 1200px;
   margin:auto;
-  background: gray;
+  background: red;
 }
 #header{
   background-color: red;
-  width: 1200px;
+  width: 50%;
+  height: 80px;
   float: center;
 }
 #nav1{
   width: 1200px;
   text-align: center;
   background: red;
+  padding: 1%;
+  margin: 1.5%;
 }
 #blackline{
   width: 100%
   background: black;
+  clear: both;
+  padding-top: 1000px;
+  margin-bottom: 5px;
 }
 #content{
 float: left;
@@ -24,6 +30,6 @@ background: magenta;
 }
 #ad{
   float: left;
-  width: 30%
-  background: white;
+  width: 30px
+  background: black;
 }
