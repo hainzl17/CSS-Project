@@ -13,6 +13,12 @@
   text-align: center;
   background: red;
 }
+#blackline{
+  width: 100%
+  background: black;
+}
 #content{
-
+float: left;
+width: 40%
+background: magenta;
 }
