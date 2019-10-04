@@ -1,7 +1,12 @@
-#container{
+#container1{
   width: 1200px;
   margin:auto;
   background: red;
+}
+#container2{
+  width: 1200px;
+  margin:auto;
+  background: yellow;
 }
 #header{
   background-color: red;
