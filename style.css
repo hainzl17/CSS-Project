@@ -31,12 +31,12 @@
 #content{
 float: left;
 width: 40%
-background: magenta;
+background-color: magenta;
 }
 #ad{
   float: left;
   width: 30px
-  background: black;
+background-color: green;
 }
 .footer{
   position: absolute;
@@ -51,4 +51,7 @@ background: magenta;
   margin-left: auto;
   margin-right: auto;
   width: 300px
+}
+.body {
+  background-color: red;
 }
