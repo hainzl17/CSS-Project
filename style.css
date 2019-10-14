@@ -49,8 +49,9 @@
 }
 
 #ad {
-  width: 100px;
+  width: 200px;
   background: green;
+  margin:left;
 }
 
 
@@ -93,6 +94,10 @@ li a {
   padding-right: 14px,
     padding-left: 14px;
   text-decoration: none;
+}
+
+li a:hover{
+  color: yellow;
 }
 
 /* New Dropdown Menu Starts Here */
