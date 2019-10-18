@@ -32,7 +32,7 @@
 #nav1 {
   width: 1200px;
   text-align: center;
-  background-color: red;
+  background-color:  #FFFF0D;
   padding: 1%;
   margin-left: auto;
   margin-right: auto;
@@ -65,12 +65,12 @@ img {
 
 #content2 {
   width: 40%;
-  background: yellow;
+  background: #FFFF0D;
 }
 
 #ad {
   width: 210px;
-  background: green;
+  background: #FF6F00;
   margin:left;
 }
 
