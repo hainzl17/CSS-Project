@@ -9,6 +9,7 @@
 #container2 {
   background-color: #FFFF0D;
   width: 1200px;
+  padding: 15px;
 }
 
 #container3 {
@@ -16,15 +17,6 @@
   width: 1200px;
   height: 100px;
   align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#header {
-  background-color: red;
-  width: 50%;
-  height: 80px;
-  float: center;
   margin-left: auto;
   margin-right: auto;
 }
@@ -142,4 +134,17 @@ header {
 
 .dropdown:hover .drop-content {
   display: block;
+}
+
+.column{
+  float: left;
+  width: 33.33%
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row::after{
+  content:"";
+  clear: both;
+  display: table;
 }
