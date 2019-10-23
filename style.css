@@ -19,6 +19,8 @@
   align: center;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 #nav1 {
@@ -56,6 +58,20 @@ img {
   width: 210px;
   background: #FF6F00;
   margin:left;
+}
+#image1{
+  margin-left: 10%;
+  float: left;
+}
+
+#image2{
+  margin-left: 70%;
+  float: left;
+}
+
+#image3{
+  margin-left: 130%;
+  float: left;
 }
 
 
