@@ -45,7 +45,7 @@ img {
   margin-right: auto;
 }
 
-#content {
+.content {
   width: 40%;
   background: yellow;
 }
@@ -60,7 +60,7 @@ img {
   background: #FFFF0D;
 }
 
-#ad {
+.ad {
   width: 210px;
   background: #FF6F00;
   margin:left;
@@ -78,6 +78,10 @@ img {
 #image3{
   margin-left: 130%;
   float: left;
+}
+
+#image4{
+  float: right;
 }
 
 
