@@ -28,16 +28,7 @@ body{
   padding-top: 8px;
   padding-bottom: 8px;
 }
-/*
-#nav1 {
-  width: 1200px;
-  text-align: center;
-  background-color:  #73AD21;
-  padding: 1%;
-  margin-left: auto;
-  margin-right: auto;
-}
-*/
+
 img {
   border: 2px solid black;
   border-radius: 25px;
@@ -67,17 +58,14 @@ img {
 }
 #image1{
   margin-left: 10%;
-  float: left;
 }
 
 #image2{
-  margin-left: 70%;
-  float: left;
+  margin-left: 150%;
 }
 
 #image3{
-  margin-left: 130%;
-  float: left;
+  margin-left: 315%;
 }
 
 #image4{
